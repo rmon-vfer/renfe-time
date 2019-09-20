@@ -3,7 +3,7 @@ renfe-time scrapes and parses train schedules for RENFE trains in Spain. At the 
 
 ### Usage
 ```python
-from RenfeTime import RenfeTime as rt
+from RenfeTrainTime import RenfeTime as rt
 from datetime import datetime
 import pprint
 
